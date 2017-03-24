@@ -1,0 +1,3 @@
+com/xmli/hadoop/WordCount$IntSumReducer.class
+com/xmli/hadoop/WordCount$TokenizerMapper.class
+com/xmli/hadoop/WordCount.class
